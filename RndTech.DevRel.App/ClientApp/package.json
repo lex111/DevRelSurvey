@@ -5,7 +5,7 @@
   "dependencies": {
     "@skbkontur/react-icons": "^3.1.1",
     "@skbkontur/react-ui": "^0.27.0",
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "classnames": "^2.2.6",
     "jss": "^9.8.7",
     "react": "^16.5.2",
